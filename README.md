@@ -1,5 +1,5 @@
 # WELCOME TO MY PORTFOLIO
-Everything included in my portfolio is starting from Day 1 to Current of my venture.
+Everything included in my portfolio is starting from Day 1 - Current of my venture.
 ## ABOUT
 ### Just a little about myself
   * 28 Years Old
