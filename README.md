@@ -9,6 +9,10 @@ Just a little about myself!
   * Been doing "Computer Things" since I can remember
 
 
+### Goals
+ * Learn enough and always more, to get myself in the door as a Jr SWE/SWD
+ * Learn to make effiecent and beautiful code
+ * Increase my logical thinking and problem solving
 
 
 
