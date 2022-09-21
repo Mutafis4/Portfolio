@@ -7,6 +7,7 @@ Everything included in my portfolio is starting from Day 1 to Current of my vent
   * Learning Python and Front-End Dev
   * Three years of professional IT experience
   * Been doing "Computer Things" since I can remember
+  * I'm a Learner, I will endlessly try to learn new skills, day in and day out
 
 
 ### Goals
