@@ -12,7 +12,7 @@ Just a little about myself!
 
 
 
-### Disclaimers
+## Disclaimers
   * Very very far from expert
   * Mistakes will be made
   * Learning from mistakes is KEY
