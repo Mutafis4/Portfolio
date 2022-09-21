@@ -1,5 +1,5 @@
 # WELCOME TO MY PORTFOLIO
-Everything in this is from Day 1 - Current Day of my venture.
+Everything included in my portfolio is starting from Day 1 to Current of my venture.
 ## ABOUT
 Just a little about myself!
   * 28 Years Old
@@ -7,6 +7,13 @@ Just a little about myself!
   * Learning Python and Front-End Dev
   * Three years of professional IT experience
   * Been doing "Computer Things" since I can remember
+
+
+
+
+
 ### Disclaimers
   * Very very far from expert
-  *  
+  * Mistakes will be made
+  * Learning from mistakes is KEY
+  * 
