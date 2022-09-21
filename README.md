@@ -21,4 +21,4 @@ Everything included in my portfolio is starting from Day 1 to Current of my vent
   * Very very far from expert
   * Mistakes will be made
   * Learning from mistakes is KEY
-  * 
+  * Don't have deep knowledge of making this "Portfolio" README.md attractive. So it might be ugly :)
