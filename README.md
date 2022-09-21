@@ -1,7 +1,7 @@
 # WELCOME TO MY PORTFOLIO
 Everything included in my portfolio is starting from Day 1 to Current of my venture.
 ## ABOUT
-### Just a little about myself!
+### Just a little about myself
   * 28 Years Old
   * Currently a Systems Administrator
   * Learning Python and Front-End Dev
