@@ -9,7 +9,7 @@ gross = (salary * hours_worked)
 # Net pay
 take_home = (gross - (tax_percent / 100 * gross))
 # Print out net
-print(f"Your Gross Salary is ${gross:0.2f}")
-print(f"Your Net Salary is ${take_home:0.2f}")
+print(f"Your Gross Salary is ${gross:,.2f}")
+print(f"Your Net Salary is ${take_home:,.2f}")
 
 
