@@ -14,4 +14,4 @@ new_pass = ""
 for i in range(0, pass_len):
     password_char = random.choice(chars)
     new_pass = new_pass + password_char
-print(new_pass)
+print(new_pass.capitalize())
